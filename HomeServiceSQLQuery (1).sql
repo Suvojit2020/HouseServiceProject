@@ -69,11 +69,14 @@ insert into ServicesList values(2, 4, '2023-03-14 10:23:23')
 
 --------- Admin table
 Create table Admin (AdminId smallint identity(1,1) primary key,
-					UserName varchar(30),
-					Email varchar(20),
-					Password varchar(20))
+					AdminName varchar(30),
+					AdminEmail varchar(20),
+					AdminPassword varchar(20))
 
-insert into Admin values('Lavkush', 'lav@singh','123456'),
+drop table Admin
+
+insert into Admin values('Suvojit', 'suvo@acharyy','123456'),
+						('Lavkush', 'lav@singh','123456'),
 						('Shiva', 'shiva@india', '654321')
 alter table Admin add Roles varchar(20)
 alter table Admin drop column Roles

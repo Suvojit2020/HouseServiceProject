@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AIeXX8urkwd0Jrq2RCTp45my1OEUlw/I84B+fuGtp0XYP/R8ZwO5LC0BguzmgNdkoBXw/NkV7Jnkf/gYkmiGfw==",
+  "dgSpecHash": "d469tVTsW0VhSKmIBwwjxGWOuP599HXO5Ivn5u2lj2EKn0JlhAmlSuiRj0nf7mSQy3MKgqK33zbdRoN0EC2vCw==",
   "success": true,
-  "projectFilePath": "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceApp\\HouseServiceApp.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceApp\\HouseServiceApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -53,7 +53,7 @@ namespace HouseServiceApp.Controllers
 
 //****** Customers
         // Get all Customer
-        [Authorize(Roles = "Administrator")]
+      //  [Authorize(Roles = "Administrator")]
         [HttpGet]
         [Route("getAllCustomers")]
         public IActionResult getAllCustomers()
@@ -99,7 +99,7 @@ namespace HouseServiceApp.Controllers
         // Token generate
         [AllowAnonymous]
         [HttpPost]
-        [Route("/Login")]
+        [Route("/AdminLogin")]
         public async Task<IActionResult> Post(Admin _userData)
         {
             if (_userData != null && _userData.AdminEmail != null && _userData.AdminPassword != null)
@@ -149,7 +149,7 @@ namespace HouseServiceApp.Controllers
 
     }
 
-    public class AdminTokenController : ControllerBase
+    /*public class AdminTokenController : ControllerBase
     {
         //public short AuthenticatedId { get; set; }
         private IConfiguration _configuration;
@@ -205,5 +205,5 @@ namespace HouseServiceApp.Controllers
         {
             return await _context.Admin.FirstOrDefaultAsync(u => u.AdminPassword == name && u.AdminPassword == password);
         }
-    }
+    }*/
 }

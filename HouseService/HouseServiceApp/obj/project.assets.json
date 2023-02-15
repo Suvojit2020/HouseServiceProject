@@ -10301,11 +10301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceApp\\HouseServiceApp.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceApp\\HouseServiceApp.csproj",
       "projectName": "HouseServiceApp",
-      "projectPath": "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceApp\\HouseServiceApp.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceApp\\HouseServiceApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceApp\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10322,8 +10322,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceRepositories\\HouseServiceRepositories.csproj": {
-              "projectPath": "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceRepositories\\HouseServiceRepositories.csproj"
+            "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceRepositories\\HouseServiceRepositories.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceRepositories\\HouseServiceRepositories.csproj"
             }
           }
         }

@@ -9,7 +9,7 @@ namespace HouseServiceRepositories.Data
     public partial class  Admin
     {
         public short AdminId { get; set; } 
-        public string AdminName { get; set; }
+        public string? AdminName { get; set; }
         public string? AdminEmail { get; set; }
         public string? AdminPassword { get; set; }
     }

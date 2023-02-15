@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bwButRYnvAZG/kCSugteC3JKHmgDt/unmFDBRez5IxbKjBUjLMdJ688PwGgqmGJ2l7mGSnTOIHbe4j+aJ7B9Pg==",
+  "dgSpecHash": "236Y0h2VRrDwfsboKVucQWLve5bCLKUw8tMFEJRbUr9k5al6hywMYkCkQVvm3Fx4NH6ryxtUYIdj96w8Nf407g==",
   "success": true,
-  "projectFilePath": "D:\\.NET\\slove\\HouseServiceApp\\HouseServiceAppSol\\HouseServiceRepositories\\HouseServiceRepositories.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\HouseServiceProject\\HouseService\\HouseServiceRepositories\\HouseServiceRepositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
